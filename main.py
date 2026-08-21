@@ -1,6 +1,4 @@
 
-print("Study Tracker is alive.")
-print("I am learning Git.")
 
 for i in range(10):
     print(i)

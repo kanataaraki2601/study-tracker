@@ -1,7 +1,5 @@
 
 
-for i in range(10):
-    print(i)
 
 subject = "Python"
 minutes = 30

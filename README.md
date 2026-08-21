@@ -1,8 +1,8 @@
 # Study Tracker / 学習記録トラッカー
 
-A small Python project that records a study session in memory and reports the session count. Its original Git history is preserved to show the project's step-by-step development while learning Git.
+A small Python project that records a study session in memory and reports the session count. Its original sequence of code changes and commit messages was replayed as 14 commits to show the project's step-by-step development while learning Git.
 
-学習セッションをメモリ上に記録し、セッション数を表示する小さな Python プロジェクトです。Git を学びながら試行錯誤した開発過程を示すため、元のコミット履歴を保持しています。
+学習セッションをメモリ上に記録し、セッション数を表示する小さな Python プロジェクトです。Git を学びながら試行錯誤した開発過程を示すため、元のコード変更とコミットメッセージの順序を 14 個のコミットとして再現しています。
 
 ## Run / 実行方法
 
@@ -36,6 +36,6 @@ Total sessions: 1
 
 ## Provenance / 制作情報
 
-The source code and original commit history are Kanata Araki's learning work. The bilingual README organization and editing were prepared with AI assistance. No open-source license is granted.
+The source code and incremental commit sequence are Kanata Araki's learning work. The bilingual README organization and editing were prepared with AI assistance. No open-source license is granted.
 
-ソースコードと元のコミット履歴は、荒木奏多の学習成果です。このバイリンガル README の構成と編集には AI の支援を利用しています。オープンソースライセンスは付与していません。
+ソースコードと段階的なコミットの流れは、荒木奏多の学習成果です。このバイリンガル README の構成と編集には AI の支援を利用しています。オープンソースライセンスは付与していません。

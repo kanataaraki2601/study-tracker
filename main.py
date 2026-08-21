@@ -13,5 +13,5 @@ print("Today I learned Git.")
 for i in range(10):
     print(i)
 
-print(Hello)
-print(good)
+print("Hello")
+print("good")

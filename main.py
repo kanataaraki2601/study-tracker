@@ -1,3 +1,3 @@
-print("study tracker is alive")
-
-
+for i in range(10):
+    print(i)
+print(int(input()))

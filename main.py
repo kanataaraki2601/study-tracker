@@ -1,4 +1,7 @@
-subject = "Python"
+
+
+
+subject_subject = "Python"
 minutes = 30
 
 print("Subject:", subject)
